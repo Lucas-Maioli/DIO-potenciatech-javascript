@@ -1,4 +1,7 @@
-# Primeiros passos com JavaScript
+# Primeiras Páginas Interativas com JavaScript
+
+## Primeiros Passos com JavaScript
+
 Este repositorio faz parte do bootcamp potencia tech angular da DIO, neste modulo, vi condicionais, operadores e variaveis, bem como desafios e listas de exercicios propostos em aula
 
 **Desafio 1**
@@ -15,3 +18,7 @@ Este repositorio faz parte do bootcamp potencia tech angular da DIO, neste modul
 
 **Lista 3**
     Fazer um algoritmo que calcule a forma de pagamento de um produpo por determinados clientes, bem como as porcentagens de desconto ou acrescimo de cada forma de pagamento escolhida
+
+## Conehcendo Funções em JavaScript
+    
+    Neste modulo foi introduzido funções em java script, como fazer e como chamr uma função, foram aprimorados exercicios anterios como o de IMC e o de juros, para separar por funçoes, e conhecemos sofre funçoes anonimas onde elas sao criadas e executadas logo em seguida
