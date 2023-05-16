@@ -22,3 +22,7 @@ Este repositorio faz parte do bootcamp potencia tech angular da DIO, neste modul
 ## Conehcendo Funções em JavaScript
     
     Neste modulo foi introduzido funções em java script, como fazer e como chamr uma função, foram aprimorados exercicios anterios como o de IMC e o de juros, para separar por funçoes, e conhecemos sofre funçoes anonimas onde elas sao criadas e executadas logo em seguida
+
+## Criando Objetos e Classes em JavaScript
+
+    Aqui foi ensinado classes e objetos, com duas atividades, uma referente a classificação de carros com cor marca e consumo de combustivel, para calcular o valor gasto em uma viagem, e outro criamos uma classe pessoa com nome, altura e peso, para calcular e classificar o IMC
